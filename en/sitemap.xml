@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/Young/en/categories/</loc>
+    <loc>https://y27zy.github.io/Young/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/Young/categories/"
+                href="https://y27zy.github.io/Young/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Young/en/categories/"
+                href="https://y27zy.github.io/Young/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Young/en/tags/</loc>
+    <loc>https://y27zy.github.io/Young/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/Young/tags/"
+                href="https://y27zy.github.io/Young/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Young/en/tags/"
+                href="https://y27zy.github.io/Young/en/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Young/en/</loc>
+    <loc>https://y27zy.github.io/Young/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/Young/"
+                href="https://y27zy.github.io/Young/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Young/en/"
+                href="https://y27zy.github.io/Young/en/"
                 />
   </url>
 </urlset>

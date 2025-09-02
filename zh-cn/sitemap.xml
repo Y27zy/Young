@@ -2,110 +2,113 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/Young/</loc>
-    <lastmod>2025-09-01T16:37:08+08:00</lastmod>
+    <loc>https://y27zy.github.io/Young/</loc>
+    <lastmod>2025-09-02T16:16:57+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Young/en/"
+                href="https://y27zy.github.io/Young/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/Young/"
+                href="https://y27zy.github.io/Young/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Young/p/myfirstblog/</loc>
+    <loc>https://y27zy.github.io/Young/p/newblog/</loc>
+    <lastmod>2025-09-02T16:16:57+08:00</lastmod>
+  </url><url>
+    <loc>https://y27zy.github.io/Young/post/</loc>
+    <lastmod>2025-09-02T16:16:57+08:00</lastmod>
+  </url><url>
+    <loc>https://y27zy.github.io/Young/p/myfirstblog/</loc>
     <lastmod>2025-09-01T16:37:08+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Young/post/</loc>
-    <lastmod>2025-09-01T16:37:08+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/Young/categories/</loc>
+    <loc>https://y27zy.github.io/Young/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Young/en/categories/"
+                href="https://y27zy.github.io/Young/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/Young/categories/"
+                href="https://y27zy.github.io/Young/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Young/p/test-chinese/</loc>
+    <loc>https://y27zy.github.io/Young/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Young/categories/test/</loc>
+    <loc>https://y27zy.github.io/Young/categories/test/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Young/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://y27zy.github.io/Young/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Young/page/</loc>
+    <loc>https://y27zy.github.io/Young/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Young/archives/</loc>
+    <loc>https://y27zy.github.io/Young/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Young/tags/css/</loc>
+    <loc>https://y27zy.github.io/Young/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Young/tags/html/</loc>
+    <loc>https://y27zy.github.io/Young/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Young/tags/markdown/</loc>
+    <loc>https://y27zy.github.io/Young/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Young/p/markdown-syntax-guide/</loc>
+    <loc>https://y27zy.github.io/Young/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Young/categories/syntax/</loc>
+    <loc>https://y27zy.github.io/Young/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Young/tags/</loc>
+    <loc>https://y27zy.github.io/Young/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Young/en/tags/"
+                href="https://y27zy.github.io/Young/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/Young/tags/"
+                href="https://y27zy.github.io/Young/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Young/categories/themes/</loc>
+    <loc>https://y27zy.github.io/Young/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Young/tags/themes/</loc>
+    <loc>https://y27zy.github.io/Young/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Young/p/placeholder-text/</loc>
+    <loc>https://y27zy.github.io/Young/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Young/tags/tag-with-whitespaces/</loc>
+    <loc>https://y27zy.github.io/Young/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Young/categories/test-with-whitespaces/</loc>
+    <loc>https://y27zy.github.io/Young/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Young/tags/text/</loc>
+    <loc>https://y27zy.github.io/Young/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Young/p/math-typesetting/</loc>
+    <loc>https://y27zy.github.io/Young/p/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Young/tags/emoji/</loc>
+    <loc>https://y27zy.github.io/Young/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Young/p/emoji-support/</loc>
+    <loc>https://y27zy.github.io/Young/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Young/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://y27zy.github.io/Young/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
-    <loc>http://localhost:1313/Young/search/</loc>
+    <loc>https://y27zy.github.io/Young/search/</loc>
   </url>
 </urlset>
