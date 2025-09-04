@@ -7,7 +7,25 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Y27zy</copyright>
-        <lastBuildDate>Wed, 03 Sep 2025 16:44:08 +0800</lastBuildDate><atom:link href="https://y27zy.github.io/Young/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 04 Sep 2025 23:08:18 +0800</lastBuildDate><atom:link href="https://y27zy.github.io/Young/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>My CS Learning</title>
+        <link>https://y27zy.github.io/Young/p/my-cs-learning/</link>
+        <pubDate>Thu, 04 Sep 2025 23:08:18 +0800</pubDate>
+        
+        <guid>https://y27zy.github.io/Young/p/my-cs-learning/</guid>
+        <description>&lt;h2 id=&#34;启&#34;&gt;启
+&lt;/h2&gt;&lt;p&gt;今晚通识课退回宿舍的路上，君宝突然问我，在做完个人主页以后想要干点什么。&lt;/p&gt;
+&lt;p&gt;是啊，想要干点什么，单纯的学学怎么考试吗？这似乎满足不了我的心气，&lt;/p&gt;
+&lt;p&gt;回宿舍以后思考了好一会儿，不知道方向时在电脑上乱翻，无意间翻到了很久前收藏的君宝发给我的一个网站：&lt;a class=&#34;link&#34; href=&#34;https://csdiy.wiki/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;CS自学指南&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;通读了一遍前言，确实很有启发。现在大二了，确实是符合以前看过的“大学会越上越迷茫”，那么局部最优解就是有规划的学上一些东西，学一些自己感兴趣的东西，就以此网站为纲。当然，要学完这个文档里的内容所需的时间成本肯定是得按年来计算的，因此现在决定做上一些规划，我不求学多少东西，不求靠学的这些东西在一两年内收获什么利益，只求本科毕业时无愧于自己的四年青春光阴。&lt;/p&gt;
+&lt;p&gt;就目前来说，眼下想要学的有python和人工智能的一些内容（郭兰哲GitHub对应内容），眼下需要学的有线性代数，权衡以后，最近一个半月里要学的是python和线性代数，在python看到一定程度（譬如半个月以后）或是感到无聊时就可以看看AI相关的东西开拓一下视野。&lt;/p&gt;
+&lt;p&gt;对于课内，目前的打算时依据今天想到的，在课堂上用MarkDown记录课程基本框架和一些方便记录的内容，其余在课余时间边复习边整理完整（填充上课记录的框架）。&lt;/p&gt;
+&lt;p&gt;这一个文章就用来作为持续的学习内容汇报和发点小牢骚的地方吧。&lt;/p&gt;
+&lt;p&gt;​		2025年9月4日记&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Update Diary</title>
         <link>https://y27zy.github.io/Young/p/update-diary/</link>
         <pubDate>Wed, 03 Sep 2025 16:44:08 +0800</pubDate>
@@ -15,6 +33,12 @@
         <guid>https://y27zy.github.io/Young/p/update-diary/</guid>
         <description>&lt;h1 id=&#34;卷启&#34;&gt;卷启
 &lt;/h1&gt;&lt;p&gt;最近对修改润色这个个人主页实在是相当有兴趣，感觉很有意思也很有成就感，所以打算创建这一篇文章来记录修改添加过哪些内容，这一个个人主页就作为一个公开的不断修改学习的记录吧，或许以后润色的比较完善了会公布一下网址hhh&lt;/p&gt;
+&lt;h2 id=&#34;2024年&#34;&gt;2024年
+&lt;/h2&gt;&lt;h4 id=&#34;9月4日&#34;&gt;9月4日
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;给网页添加了一个icon&lt;/li&gt;
+&lt;li&gt;给头像右下角的emoji给改了&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         <item>
