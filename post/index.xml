@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Y27zy</copyright>
-        <lastBuildDate>Mon, 20 Oct 2025 01:45:57 +0800</lastBuildDate><atom:link href="https://y27zy.github.io/Young/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 20 Nov 2025 15:36:33 +0800</lastBuildDate><atom:link href="https://y27zy.github.io/Young/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>My CS Learning</title>
         <link>https://y27zy.github.io/Young/p/my-cs-learning/</link>
         <pubDate>Thu, 04 Sep 2025 23:08:18 +0800</pubDate>
@@ -92,6 +92,20 @@
 &lt;p&gt;这两天还有程设的.h文件要写，真正的忙起来了已经&lt;/p&gt;
 &lt;p&gt;后面得加个评论功能以及看一眼MarkDown怎么有一些内容实现不了，比如上面的+++，为什么显示不出灰线&lt;/p&gt;
 &lt;p&gt;晚安😴&lt;/p&gt;
+&lt;h2 id=&#34;1120&#34;&gt;11.20
+&lt;/h2&gt;&lt;p&gt;最近处于一种奇怪的躺平与内卷中间的夹心态，其实有点难受的状态，但有个好的地方，上午的一个小小的思考&lt;/p&gt;
+&lt;p&gt;以前我都执着于“定时”类型的制定计划，但是往往做的最好的是“定量”，确实如此，因为我只有在冷静下来的时候才能想清楚，什么是我真正需要学的，对我未来有效的，而自制力又有一定欠缺，让我每天学多少小时，其实是不现实的，因为会摸鱼，而且有自知之明，反而难受，不如是这样，我定量，每天做完这些，我就是可以娱乐，可以休息&lt;/p&gt;
+&lt;p&gt;都说20天~1个月可以让人养成一个好习惯，那么接下来的1个月，就做以下的“定量指标”吧：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;每天看25页DSA的PPT，如果有涉及代码，应该去敲一敲，不是单纯看。如若看完，那么从头再往下复习&lt;/li&gt;
+&lt;li&gt;每天学1课凸优化（B站凌青），对应yl的PPT&lt;/li&gt;
+&lt;li&gt;每天看2小节概率统计的内容，并做对应习题&lt;/li&gt;
+&lt;li&gt;每天看5页大创所需论文&lt;/li&gt;
+&lt;li&gt;每天看2小节PyTorch（目前优先softmax）&lt;/li&gt;
+&lt;li&gt;此外还有每天需要完成的作业&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;不妨算算这些加起来要多少小时：2h+30min+1h30min+1h+1.5h  满打满算6.5h，实际上完全会比这快，很有可能是5.5h，那其实是一个很轻松的事情，为什么这里要算一个时间，就是说，在外面干一些事情的时候，不需要焦虑，不需要心急，你就是十点回去，你也能做2h事情，时间有很多，你可以拿来干很多事情&lt;/p&gt;
+&lt;p&gt;好了，突然启封这个网页，就是为了记录这个，以后我将每天打卡完成情况，今天是DAY1，祝30天成，养成好习惯。&lt;/p&gt;
 </description>
         </item>
         <item>
